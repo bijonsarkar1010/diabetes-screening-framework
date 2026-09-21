@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+venv/
+env/
+
+# Datasets (download separately per training/README.md)
+data/
+
+# Trained model artifacts (produced locally, not checked in)
+ehr_model.json
+imaging_model.pt
+ehr_metrics.json
+imaging_metrics.json
+fusion_metrics.json
+ehr_shap_summary.png
+imaging_gradcam_examples.png

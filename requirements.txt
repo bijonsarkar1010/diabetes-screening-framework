@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+torch
+torchvision
+captum
+matplotlib
+pillow
+ucimlrepo
+streamlit
